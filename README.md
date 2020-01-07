@@ -70,7 +70,7 @@ EDITOR BY ARIFISTIFIK
 ------
 - `Add My ID LINE : arifistifik`
 
-# ![logo](/dpkopenchat.png)LINE OPENCHAT
+# ![logo](/dpkopenchat.jpg)LINE OPENCHAT
  
 DPK OPEN CHAT / [@DPKOPENCHAT](https://line.me/ti/g2/CLwjDdWYhhnpNep8hHEEgg)
 ------
