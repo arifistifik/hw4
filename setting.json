@@ -1,1 +1,33 @@
-
+{
+    "CPict2": true,
+    "CVid2": false,
+    "Sider": "Woy ngintip aja lho bangke!",
+    "autoAdd": false,
+    "autoAddMessage": "Thanks for adding @!, This is me http://line.me/ti/p/~@cob0606n",
+    "autoJoin": false,
+    "autoJoinMessage": "Hello @!, Thanks for inviting, this is me http://line.me/ti/p/~@cob0606n",
+    "autoJoinTicket": false,
+    "autoRead": false,
+    "autoRespon": false,
+    "autoResponMessage": "I'm offline @!, please message me personally http://line.me/ti/p/~@cob0606n",
+    "changeGroupPicture": [],
+    "changePictureProfile": false,
+    "changevp": false,
+    "checkContact": false,
+    "checkPost": false,
+    "checkSticker": false,
+    "detectUnsend": true,
+    "fotterlink": "http://line.me/ti/p/~@cob0606n",
+    "keyCommand": "",
+    "mimic": {
+        "status": false,
+        "target": {}
+    },
+    "myProfile": {
+        "coverId": "",
+        "displayName": "􀈂􀆹􏿿",
+        "pictureStatus": "",
+        "statusMessage": ""
+    },
+    "setKey": false
+}
